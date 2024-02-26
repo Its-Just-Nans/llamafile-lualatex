@@ -14,3 +14,7 @@ Optimize your report creation by integrating lualatex and llamafile.
 
 lualatex main.tex
 ```
+
+## Links
+
+- <https://github.com/Mozilla-Ocho/llamafile>
